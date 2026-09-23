@@ -33,21 +33,7 @@ Uma aplicação web interativa e responsiva desenvolvida para exibição de uma 
 
 ---
 
-## 💻 Como Executar o Projeto
-
-1. Clone este repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Abra o arquivo `Index.html` no seu navegador de preferência ou utilize a extensão **Live Server** no VS Code.
-
----
-
-## 🎨 Demonstração das Funcionalidades principais
+## Demonstração das Funcionalidades principais
 
 - **Modal Interativo:** Clique em um veículo na galeria para abrir o componente modal contendo a imagem em destaque e sua descrição completa.
 - **Tema Personalizado:** Clique no botão no canto superior direito para alternar entre o modo escuro (*dark mode*) e o modo claro (*light mode*).
