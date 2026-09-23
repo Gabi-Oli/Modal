@@ -2,6 +2,7 @@
 
 Uma aplicação web interativa e responsiva desenvolvida para exibição de uma galeria de automóveis. O projeto utiliza **Bootstrap 5** para estilização e **JavaScript nativo (ES6+)** para renderização dinâmica dos cards, controle do modal de detalhes das imagens e alteração de tema (Light/Dark mode).
 
+https://gabi-oli.github.io/Modal/
 ---
 
 ## 🚀 Funcionalidades
